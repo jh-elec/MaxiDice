@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Maxi_Dice_V1.0", "Maxi_Dice_V1.0\Maxi_Dice_V1.0.cproj", "{9AAE5AD2-4B0B-482A-9D6C-BB742928BAFA}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AAE5AD2-4B0B-482A-9D6C-BB742928BAFA}.Debug|AVR.ActiveCfg = Debug|AVR
+		{9AAE5AD2-4B0B-482A-9D6C-BB742928BAFA}.Debug|AVR.Build.0 = Debug|AVR
+		{9AAE5AD2-4B0B-482A-9D6C-BB742928BAFA}.Release|AVR.ActiveCfg = Release|AVR
+		{9AAE5AD2-4B0B-482A-9D6C-BB742928BAFA}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
